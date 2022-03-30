@@ -20,27 +20,3 @@ Bei Bedarf können mehr Löcher für Tasten, Schalter o. ä. Eingefügt werden,
 Man kann aber auch einfach welche weglassen.
 
 Für alle Verwendeten Materialien gibt es eine Liste mit Quellenangabe und Stückzahl/Preis. 
-
-Die DXF Dateien 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Sharespace nutzen und benötigte Dateien zum Nachbau strukturiert hinterlegen 
-
- 
-
-Infos: 
-
-Zur Erstellung des Projektreaders wird eine Word-Datei 
