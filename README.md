@@ -15,7 +15,7 @@ Um dein eigenes SimDash zu bauen, benötigst du geeignetes Material und einen La
 ## Arduino Sketch
 - Der Sketch ist ausführlich kommentiert und gibt an, wofür jeder Abschnitt dient und welche eventuellen Anpassungen vorgenommen werden müssen.
 
-- Eine Erklärung sowie ein Download-Link für die erforderliche Bibliothek sind auf github.com/ArduinoJoystickLibrary/ verfügbar.
+- Eine Erklärung sowie ein Download-Link für die erforderliche Bibliothek sind auf [github.com/ArduinoJoystickLibrary/](https://github.com/MHeironimus/ArduinoJoystickLibrary) verfügbar.
 
 ## Wichtig
 - Beim Zusammenbau ist zu beachten, dass das Kabel bereits durch das entsprechende Loch auf der Rückseite geführt sein sollte.
