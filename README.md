@@ -21,3 +21,4 @@ Um dein eigenes SimDash zu bauen, benötigst du geeignetes Material und einen La
 - Falls gewünscht, können zusätzliche Löcher für Tasten, Schalter oder ähnliches hinzugefügt werden. Es besteht jedoch auch die Möglichkeit, welche wegzulassen.
 
 - Eine Liste mit Quellenangaben, Stückzahl und Preisen für alle verwendeten Materialien ist verfügbar.
+- ![Preview or example of the build.](/image.png)
